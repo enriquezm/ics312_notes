@@ -1,22 +1,22 @@
 #Chapter One Notes
 
 1. True or False. A program that combines object files into an executable program is called a linker.
-- `False`
+  - `False`
 
 2. True or False. In any numbering system, the radix specifies the range of alphanumeric digits that can be assigned to a single digit position.
-- ```True```
+  - `True`
 
 3. True or False. The binary representation of decimal ```42``` is ```0010 1010```.
-- ```True```
+  - `True`
 
 4. True or False. The hexadecimal representation of decimal ```33``` is ```33h```.
-- ```False```
+  - `False`
 
 5. True or False. The sum of the binary integers ```01101101``` and ```00111011``` is ```10101001```.
-- ```False```
+  - `False`
 
 6. True or False. The 8-bit two's complement of binary ```00000010``` is ```11111110```.
-- ```True```
+  - `True`
 
 7. The binary representation of decimal ```-42``` is ```11010111```.
 
