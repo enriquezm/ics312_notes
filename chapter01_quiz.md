@@ -1,7 +1,7 @@
 #Chapter One Notes
 
 1. True or False. A program that combines object files into an executable program is called a linker.
-- ```False```
+- `False`
 
 2. True or False. In any numbering system, the radix specifies the range of alphanumeric digits that can be assigned to a single digit position.
 - ```True```
